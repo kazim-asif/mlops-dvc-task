@@ -1,0 +1,5 @@
+outs:
+- md5: 8c8a0ce56ea1cdf1e8d738f94a6b51fc
+  size: 15354
+  hash: md5
+  path: DigiDB_digimonlist.csv
